@@ -52,3 +52,8 @@
     color: hsl(218, 44%, 22%);
     text-decoration: none;
 }
+
+p{
+    padding-left: 16px;
+    padding-right: 16px;
+}
